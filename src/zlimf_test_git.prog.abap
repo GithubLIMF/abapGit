@@ -15,4 +15,4 @@
 * Date        Programmer     Corr. #              请求号+描述
 *                           FI Consultant
 REPORT ZLIMF_TEST_GIT.
-WRITE: 'ABAP'.
+WRITE: 'ABAP,我的第一个github'.
