@@ -16,4 +16,4 @@
 *                           FI Consultant
 REPORT ZLIMF_TEST_GIT.
 WRITE: 'ABAP,我的第一个github123'.
-WRITE:'ABAP是我我我我'.
+WRITE:'ABAP'."SSSSSS
